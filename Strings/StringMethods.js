@@ -1,6 +1,6 @@
 // charAt(index) - returns character at index
 let s = "Javascript"
-console.log(s.charAt(4))
+console.log(s.charAt(4)) //s
 console.log(s.charAt(8))
 // console.log(s[4])
 
